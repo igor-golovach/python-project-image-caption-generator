@@ -1,5 +1,5 @@
 keras==2.9.0
 matplotlib==3.5.2
 numpy==1.23.0
-Pillow==9.2.0
+pillow>=10.0.1
 pydot-ng==2.0.0
